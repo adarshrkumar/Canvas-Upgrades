@@ -1,0 +1,9 @@
+.submission-details-container {
+  flex-direction: column;
+}
+.comments {
+  max-height: unset !important;
+}
+.add_a_comment {
+  width: 100%;
+}
